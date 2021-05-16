@@ -1,0 +1,40 @@
+@charset "UTF-8";
+.body1{
+	background-color:f0fff0;
+}
+.content0 {
+            width: 1020px;
+            height:600px;
+            margin:10px auto;
+            text-align: center;
+            background-color:ffffff;                      
+}
+.content01{
+	width:1020px;	
+	margin: auto;
+}
+h1 {
+	font-family: 华文行楷;	
+	font-size: 42px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    line-height: 100px;
+}        
+.sheet{
+	width: 1020px;
+    margin: auto;
+    text-align: center; 
+	border:1px solid #00ff00; 
+}
+input {
+    margin: 5px;
+}
+.txt {
+    width: 250px;
+    height: 30px;            
+}
+
+.btn {
+    width: 200px;
+    height: 35px;
+}
